@@ -5,7 +5,7 @@
   "flex-layout.row": {
     "children": ["info-card#rethink", "flex-layout.col"]
   },
-  "flex-layou.col": {
+  "flex-layout.col": {
     "children": ["image#electronics", "image#major-appliance"]
   },
   "rich-text": {
