@@ -1,5 +1,5 @@
 {
-  "shelf": {
+  "store.shelf": {
     "blocks": ["product-summary.shelf"],
     "props": {
       "category": 1,
