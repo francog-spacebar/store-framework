@@ -35,7 +35,9 @@
     "children": ["sku-selector", "product-quantity"]
   },
   "stack-layout#brand": {
-    "children": ["product-images", "product-brand"],
+    "children": ["product-images", "product-brand"]
+  },
+  "product-brand": {
     "props": {
       "height": 30,
       "displayMode": "logo"
